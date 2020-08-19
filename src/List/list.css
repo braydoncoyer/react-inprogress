@@ -1,0 +1,22 @@
+h1, h2, h3, h4, h5, p {
+    padding: 0;
+    margin: 0;
+}
+
+.list__container {
+    width: 350px;
+}
+
+.list__container-content {
+    position: relative;
+    min-height: 450px;
+    padding: 30px;
+    background-color: #262E41;
+    border-radius: 20px;
+    color: white;
+}
+
+.list__container-title {
+    margin-bottom: 50px;
+    font-weight: 500;
+}
