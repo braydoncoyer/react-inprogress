@@ -6,7 +6,8 @@ const List = () => {
     const [items, setItems] = useState([
         {text: "Learn Angular"},
         {text: "Learn React"},
-        {text: "Learn Vue"}
+        {text: "Learn Vue"},
+        {text: "Learn Svelte"},
     ]);
 
   return (
